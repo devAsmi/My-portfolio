@@ -72,3 +72,14 @@ main img {
   padding: 10px;
   list-style-type: none;
 }
+.main-project img{
+  width:800px;
+  height:500px;
+}
+.sub-project img{
+width: 400px;
+height: 220px;
+padding: 4px;
+border:green;
+
+}
